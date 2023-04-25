@@ -21,6 +21,6 @@
   },
   "devDependencies": {
     "bluebird": "^3.5.0",
-    "nodemon": "^1.12.1"
+    "nodemon": "^2.0.22"
   }
 }
